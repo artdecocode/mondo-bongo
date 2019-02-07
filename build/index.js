@@ -27,4 +27,3 @@ const LOG = debuglog('mondo-bongo')
 
 
 module.exports = mondoBongo
-//# sourceMappingURL=index.js.map
